@@ -6,12 +6,12 @@ This is synthetic data, to emulate media expenses and their impact on sales.
 ### Format
 A dataset with 156 observations, comprising various marketing exposure scenarios. Each observation represents a unique week, over the course of 3 years. The "sales" variable of the dataset is the target, which denotes the sales amount over the period, in USD. The next columns are the covariates:
 
-- date: Week (starting with Friday)
-- adwords_spending: Amount spent on AdWords advertising
-- facebookads_spending: Amount spent on Facebook Ads
-- awin_spending: Amount spent on Awin advertising
-- tiktok_spending: Amount spent on TikTok advertising
-- snapchat_spending: Amount spent on Snapchat advertising
+- `date`: Week (starting with Friday)
+- `adwords_spending`: Amount spent on AdWords advertising
+- `facebookads_spending`: Amount spent on Facebook Ads
+- `awin_spending`: Amount spent on Awin advertising
+- `tiktok_spending`: Amount spent on TikTok advertising
+- `snapchat_spending`: Amount spent on Snapchat advertising
 
 ### Why this data?
 This dataset is of significant relevance for marketing mix modeling. It provides a valuable resource for studying the effectiveness of different marketing strategies, particularly in influencing online sales.
